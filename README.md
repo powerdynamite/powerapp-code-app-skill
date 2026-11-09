@@ -51,3 +51,11 @@ This skill was extracted from building the **Audit Restore** app — a Power App
 ## Related
 
 - [powerplatform-architect-skill](https://github.com/powerdynamite/powerplatform-architect-skill) — senior Power Platform / Dataverse solution architect skill
+
+---
+
+## Built by KaizenAI
+
+Created by Abdul Basit, founder of **[KaizenAI](https://kaizenai.systems/)**, an AI-first Microsoft consultancy for AI agents, Copilot, Dynamics 365 and the Power Platform, delivered as Results as a Service at a fixed price.
+
+Need hands-on help with a Power Platform build? [Talk to us](https://kaizenai.systems/contact/) or see our [fixed-price packages](https://kaizenai.systems/packages/).
